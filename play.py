@@ -10,7 +10,6 @@ size = width, height = 600, 400
 black = (0, 0, 0)
 white = (255, 255, 255)
 
-# print(pygame.font.get_fonts())
 screen = pygame.display.set_mode(size)
 mediumFont = pygame.font.SysFont('gillsans', 28)
 largeFont = pygame.font.SysFont('gillsans', 48)
